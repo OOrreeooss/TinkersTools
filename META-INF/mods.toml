@@ -1,0 +1,22 @@
+modLoader="lowcodefml"
+loaderVersion="*"
+issueTrackerURL="https://github.com/OOrreeooss/TinkersTools/issues"
+license="MIT"
+[[mods]]
+    modId="tinkers_tools"
+    version="1.0.0"
+    displayName="Tinkers' Tools"
+    authors="OOrreeooss"
+    description='''A thingpack for Tinkers' Construct that adds many new tools.'''
+[[dependencies.tinkers_tools]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.10.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_tools]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="[0.9.9,)"
+    ordering="NONE"
+    side="BOTH"

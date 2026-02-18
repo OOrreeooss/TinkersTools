@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:table_casting_material",
+  "cast": {
+    "tag": "tinkers_tools:casts/slender_blade_multi_use"
+  },
+  "item_cost": 1,
+  "result": "tinkers_tools:slender_blade"
+}

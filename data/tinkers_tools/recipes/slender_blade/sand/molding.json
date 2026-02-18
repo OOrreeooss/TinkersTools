@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:molding_table",
+  "material": { "tag": "tconstruct:casts/sand" },
+  "pattern": {
+    "type": "tconstruct:material",
+    "item": "tinkers_tools:slender_blade"
+  },
+  "result": "tinkers_tools:slender_blade_sand_cast"
+}

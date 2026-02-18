@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#tinkers_tools:casts/shovel_blade_multi_use",
+    "#tinkers_tools:casts/slender_blade_multi_use"
+  ]
+}
