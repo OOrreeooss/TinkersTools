@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_tools:dolabra",
+  "text": [
+    { "text": "Y'know, ancient Romans used these as entrenching tools." },
+    { "text": "Guess that means you gotta build Rome now, in one day of course.", "paragraph": true }
+  ],
+  "properties": [
+    "Effective on wood, stone, and ores",
+    "Can strip logs"
+  ]
+}

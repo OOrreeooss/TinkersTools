@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_tools:hoe",
+  "text": [
+    { "text": "The hoe is one of the most prestigious weapons. It is wielded by the most hardcore of soldiers." },
+    { "text": "You can also use it for gardening, but that's not as cool.", "paragraph": true }
+  ],
+  "properties": [
+    "Tills dirt",
+    "Interact with crops to harvest them",
+    "Effective on plants",
+    "AoE attack capabilities"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tool": "tinkers_tools:shovel",
+  "text": [
+    { "text": "The Shovel is the most basic of digging tools." }
+  ],
+  "properties": [
+    "+1.5 Attack Damage",
+    "1.2 Attack Speed",
+    "Knockback I",
+    "Makes paths"
+  ]
+}
