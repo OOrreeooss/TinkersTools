@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "parts": [
+    { "path": "tinkers_tools:item/tool/paxel/pick",         "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/paxel/pick_broken",  "stat_type": "tconstruct:head" },
+
+    { "path": "tinkers_tools:item/tool/dolabra/head",         "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/dolabra/head_broken",  "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/dolabra/pick",         "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/dolabra/pick_broken",  "stat_type": "tconstruct:head" },
+
+    { "path": "tinkers_tools:item/tool/shovel/head",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/shovel/head_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/shovel/handle",      "stat_type": "tconstruct:handle" },
+
+    { "path": "tinkers_tools:item/tool/parts/slender_blade", "stat_type": "tconstruct:head" },
+
+    { "path": "tinkers_tools:item/tool/hoe/head",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/hoe/head_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/hoe/handle",      "stat_type": "tconstruct:handle" }
+  ]
+}

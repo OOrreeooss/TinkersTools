@@ -1,0 +1,23 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "head":   "tinkers_tools:item/tool/hoe/head",
+    "handle": "tinkers_tools:item/tool/hoe/handle"
+  },
+  "modifier_roots": [ "tinkers_tools:item/tool/hoe/modifiers/" ],
+  "parts": [
+    { "name": "handle", "index": 1 },
+    { "name": "head",   "index": 0 }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_tools:item/hoe/blocking"
+    },
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_tools:item/hoe/broken"
+    }
+  ]
+}
