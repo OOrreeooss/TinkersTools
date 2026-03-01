@@ -1,0 +1,16 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "head":   "tinkers_tools:item/tool/hammer/head_broken",
+    "handle": "tinkers_tools:item/tool/hammer/handle"
+  },
+  "modifier_roots": [ 
+    "tinkers_tools:item/tool/hammer/modifiers/broken/",
+    "tinkers_tools:item/tool/hammer/modifiers/" 
+  ],
+  "parts": [
+    { "name": "handle", "index": 1 },
+    { "name": "head",   "index": 0 }
+  ]
+}
