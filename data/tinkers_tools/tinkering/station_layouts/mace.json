@@ -1,0 +1,40 @@
+{
+  "translation_key": "item.tinkers_tools.mace",
+  "icon": {
+    "item": "tinkers_tools:mace",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": ["tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra", "tconstruct:ui_render#large", "tconstruct:ui_render#extra_large"]
+    }
+  },
+  "sortIndex": 6,
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tinkers_tools:mace_head"
+      },
+      "icon": "tinkers_tools:mace_head",
+      "translation_key": "item.tinkers_tools.mace_head",
+      "x": 53,
+      "y": 22
+    },
+    {
+      "filter": {
+        "item": "tconstruct:tool_handle"
+      },
+      "icon": "tconstruct:tool_handle",
+      "translation_key": "item.tconstruct.tool_handle",
+      "x": 15,
+      "y": 60
+    },
+    {
+      "filter": {
+        "item": "tconstruct:tool_binding"
+      },
+      "icon": "tconstruct:tool_binding",
+      "translation_key": "item.tconstruct.tool_binding",
+      "x": 33,
+      "y": 42
+    }
+  ]
+}
