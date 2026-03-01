@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tinkers_tools:dolabra",
+    "tinkers_tools:hammer",
+    "tinkers_tools:hoe",
+    "tinkers_tools:mace",
+    "tinkers_tools:paxel",
+    "tinkers_tools:shovel"
+  ]
+}

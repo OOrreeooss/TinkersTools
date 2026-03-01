@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#tinkers_tools:casts/mace_head_single_use",
+    "#tinkers_tools:casts/shovel_blade_single_use",
+    "#tinkers_tools:casts/slender_blade_single_use"
+  ]
+}
