@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:table_casting_material",
+  "cast": {
+    "tag": "tinkers_tools:casts/mace_head_multi_use"
+  },
+  "item_cost": 3,
+  "result": "tinkers_tools:mace_head"
+}

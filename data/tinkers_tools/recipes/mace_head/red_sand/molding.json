@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:molding_table",
+  "material": { "tag": "tconstruct:casts/red_sand" },
+  "pattern": {
+    "type": "tconstruct:material",
+    "item": "tinkers_tools:mace_head"
+  },
+  "result": "tinkers_tools:mace_head_red_sand_cast"
+}

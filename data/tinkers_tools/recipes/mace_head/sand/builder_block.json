@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:item_part_builder",
+  "pattern": "tinkers_tools:mace_head",
+  "pattern_item": {
+    "tag": "forge:sand/colorless"
+  },
+  "result": {
+    "count": 4,
+    "item": "tinkers_tools:mace_head_sand_cast"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:part_builder",
+  "pattern": "tinkers_tools:mace_head",
+  "pattern_item": [
+    { "tag": "tconstruct:patterns/default" },
+    { "item": "tinkers_tools:mace_head_gold_cast" }
+  ],
+  "cost": 3,
+  "result": { "item": "tinkers_tools:mace_head" }
+}
