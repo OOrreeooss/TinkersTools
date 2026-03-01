@@ -1,0 +1,22 @@
+{
+  "icon": "tinkers_tools:shovel_blade",
+  "after": ["tinkers_tools:tools"],
+  "translation_key": "itemGroup.tinkers_tools.tool_parts",
+  "items": [
+    "tinkers_tools:mace_head",
+    "tinkers_tools:shovel_blade",
+    "tinkers_tools:slender_blade",
+
+    "tinkers_tools:mace_head_gold_cast",
+    "tinkers_tools:shovel_blade_gold_cast",
+    "tinkers_tools:slender_blade_gold_cast",
+
+    "tinkers_tools:mace_head_sand_cast",
+    "tinkers_tools:shovel_blade_sand_cast",
+    "tinkers_tools:slender_blade_sand_cast",
+
+    "tinkers_tools:mace_head_red_sand_cast",
+    "tinkers_tools:shovel_blade_red_sand_cast",
+    "tinkers_tools:slender_blade_red_sand_cast"
+  ]
+}
