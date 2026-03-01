@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_tools:shovel",
+  "text": [
+    { "text": "The Shovel is a tool used for real, ground-breaking work." },
+    { "text": "\n" },
+    { "text": "What else did you expect?" }
+  ],
+  "properties": [
+    "Creates paths",
+    "Breaks soft dirts and gravel",
+    "Bonus knockback"
+  ]
+}

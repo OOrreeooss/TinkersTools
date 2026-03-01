@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_tools:hammer",
+  "text": [
+    { "text": "The Hammer is a stone mining tool, effective on stone in a 3x3 range." },
+    { "text": "Expanders alternate between increasing width and height.", "paragraph": true }
+  ],
+  "properties": [
+    "+3 Attack Damage",
+    "125% Attack Multiplier",
+    "0.85 Attack Speed",
+    "45% Mining Multiplier",
+    "125% Durability Multiplier",
+    "Smite I"
+  ]
+}

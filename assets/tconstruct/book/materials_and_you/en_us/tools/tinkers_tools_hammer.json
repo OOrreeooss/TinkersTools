@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_tools:hammer",
+  "text": [
+    { "text": "The Hammer is a stone mining tool. It is effective on stone but not ores." },
+    { "text": "\n" },
+    { "text": "Not everything is a nail, OK?" }
+  ],
+  "properties": [
+    "Stone mining tool",
+    "Effective on stone, not ores",
+    "Starts with Smite I"
+  ]
+}

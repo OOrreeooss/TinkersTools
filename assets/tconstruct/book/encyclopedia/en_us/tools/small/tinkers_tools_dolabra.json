@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_tools:dolabra",
+  "text": [
+    { "text": "The Dolabra is a multipurpose wood and stone mining tool, effective on a variety of blocks." },
+    { "text": "Expanders increase the circular radius of the axe.", "paragraph": true }
+  ],
+  "properties": [
+    "+4.5 Attack Damage",
+    "1.0 Attack Speed",
+    "125% Durability Multiplier",
+    "80% Mining Multiplier",
+    "Strips wood"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_tools:hoe",
+  "text": [
+    { "text": "The Hoe is the most basic of gardening tools. It can till dirt." }
+  ],
+  "properties": [
+    "+1.5 Attack Damage",
+    "75% Attack Modifier",
+    "1.4 Attack Speed",
+    "Small AOE Attack",
+    "Harvest plants",
+    "Tills dirt"
+  ]
+}

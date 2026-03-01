@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_tools:mace",
+  "text": [
+    { "text": "Don't try to smash attack with this one, it doesn't work." },
+    { "text": "\n" },
+    { "text": "Trust me, I've tried." }
+  ],
+  "properties": [
+    "Medium Damage",
+    "Low Speed",
+    "Bonus piercing damage",
+    "Even More piercing damage"
+  ]
+}
