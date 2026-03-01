@@ -1,27 +1,42 @@
 {
-  "itemGroup.tinkers_tools.tinkers_tools": "Tinkers' Tools",
-
-  "item.tinkers_tools.paxel": "Paxel",
-  "item.tinkers_tools.paxel.description": "The Paxel is a multipurpose mining tool. It is effective on logs, rocks, and dirt.",
+  "itemGroup.tinkers_tools.tools": "Tinkers' Tools",
+  "itemGroup.tinkers_tools.tool_parts": "Tinkers' Tool Parts",
 
   "item.tinkers_tools.dolabra": "Dolabra",
   "item.tinkers_tools.dolabra.description": "The Dolabra is a multipurpose wood and stone mining tool. It is effective on logs, rocks, and ores.",
 
-  "item.tinkers_tools.shovel": "Shovel",
-  "item.tinkers_tools.shovel.description": "The Shovel is the most basic of digging tools. It has plenty of knockback.",
-
-  "pattern.tinkers_tools.slender_blade": "Shovel Blade",
-  "item.tinkers_tools.shovel_blade": "Shovel Blade",
-  "item.tinkers_tools.shovel_blade_sand_cast": "Shovel Blade Sand Cast",
-  "item.tinkers_tools.shovel_blade_red_sand_cast": "Shovel Blade Red Sand Cast",
-  "item.tinkers_tools.shovel_blade_gold_cast": "Shovel Blade Gold Cast",
+  "item.tinkers_tools.hammer": "Hammer",
+  "item.tinkers_tools.hammer.description": "The Hammer is a stone mining tool. It is not effective on ores.\nNot everything is a nail, OK?",
 
   "item.tinkers_tools.hoe": "Hoe",
   "item.tinkers_tools.hoe.description": "The Hoe is the most basic of gardening tools. It can till dirt.\nRight Click: Harvest and replant crops",
 
+  "item.tinkers_tools.mace": "Mace",
+  "item.tinkers_tools.mace.description": "The Mace is a slow weapon used for bludgeoning armored opponents. This variety is flanged.",
+
+  "item.tinkers_tools.paxel": "Paxel",
+  "item.tinkers_tools.paxel.description": "The Paxel is a multipurpose mining tool. It is effective on logs, rocks, and dirt.",
+
+  "item.tinkers_tools.shovel": "Shovel",
+  "item.tinkers_tools.shovel.description": "The Shovel is the most basic of digging tools. It has plenty of knockback.",
+
+  "pattern.tinkers_tools.mace_head": "Mace Head",
+  "pattern.tinkers_tools.slender_blade": "Shovel Blade",
   "pattern.tinkers_tools.slender_blade": "Slender Blade",
+
+  "item.tinkers_tools.mace_head": "Mace Head",
+  "item.tinkers_tools.shovel_blade": "Shovel Blade",
   "item.tinkers_tools.slender_blade": "Slender Blade",
+
+  "item.tinkers_tools.mace_head_gold_cast": "Mace Head Gold Cast",
+  "item.tinkers_tools.shovel_blade_gold_cast": "Shovel Blade Gold Cast",
+  "item.tinkers_tools.slender_blade_gold_cast": "Slender Blade Gold Cast",
+
+  "item.tinkers_tools.mace_head_sand_cast": "Mace Head Sand Cast",
+  "item.tinkers_tools.shovel_blade_sand_cast": "Shovel Blade Sand Cast",
   "item.tinkers_tools.slender_blade_sand_cast": "Slender Blade Sand Cast",
-  "item.tinkers_tools.slender_blade_red_sand_cast": "Slender Blade Red Sand Cast",
-  "item.tinkers_tools.slender_blade_gold_cast": "Slender Blade Gold Cast"
+
+  "item.tinkers_tools.mace_head_red_sand_cast": "Mace Head Red Sand Cast",
+  "item.tinkers_tools.shovel_blade_red_sand_cast": "Shovel Blade Red Sand Cast",
+  "item.tinkers_tools.slender_blade_red_sand_cast": "Slender Blade Red Sand Cast"
 }
