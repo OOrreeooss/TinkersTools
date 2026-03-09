@@ -1,0 +1,10 @@
+{
+  "tool": "tinkers_tools:shortbow",
+  "text": [
+    { "text": "Classic arrow launcher, nothing more, nothing less." }
+  ],
+  "properties": [
+    "Drawback with less hindrance to movement",
+	  "Less accuracy and velocity"
+  ]
+}

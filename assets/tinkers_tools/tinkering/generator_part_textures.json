@@ -1,8 +1,8 @@
 {
   "replace": false,
   "parts": [
-    { "path": "tinkers_tools:item/tool/dolabra/head",        "stat_type": "tconstruct:head" },
-    { "path": "tinkers_tools:item/tool/dolabra/head_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/dolabra/axe",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/dolabra/axe_broken", "stat_type": "tconstruct:head" },
     { "path": "tinkers_tools:item/tool/dolabra/pick",        "stat_type": "tconstruct:head" },
     { "path": "tinkers_tools:item/tool/dolabra/pick_broken", "stat_type": "tconstruct:head" },
 
@@ -25,9 +25,28 @@
     { "path": "tinkers_tools:item/tool/paxel/pick",        "stat_type": "tconstruct:head" },
     { "path": "tinkers_tools:item/tool/paxel/pick_broken", "stat_type": "tconstruct:head" },
 
+    { "path": "tinkers_tools:item/tool/shortbow/bowstring",        "stat_type": "tconstruct:bowstring" },
+    { "path": "tinkers_tools:item/tool/shortbow/bowstring_1",      "stat_type": "tconstruct:bowstring" },
+    { "path": "tinkers_tools:item/tool/shortbow/bowstring_2",      "stat_type": "tconstruct:bowstring" },
+    { "path": "tinkers_tools:item/tool/shortbow/bowstring_3",      "stat_type": "tconstruct:bowstring" },
+    { "path": "tinkers_tools:item/tool/shortbow/bowstring_broken", "stat_type": "tconstruct:bowstring" },
+
+    { "path": "tinkers_tools:item/tool/shortbow/limb_bottom",   "stat_type": "tconstruct:limb" },
+    { "path": "tinkers_tools:item/tool/shortbow/limb_top",      "stat_type": "tconstruct:limb" },
+
     { "path": "tinkers_tools:item/tool/shovel/head",        "stat_type": "tconstruct:head"   },
     { "path": "tinkers_tools:item/tool/shovel/head_broken", "stat_type": "tconstruct:head"   },
     { "path": "tinkers_tools:item/tool/shovel/handle",      "stat_type": "tconstruct:handle" },
+
+    { "path": "tinkers_tools:item/tool/spear/head",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/spear/head_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_tools:item/tool/spear/grip",        "stat_type": "tconstruct:binding" },
+    { "path": "tinkers_tools:item/tool/spear/handle",        "stat_type": "tconstruct:handle" },
+
+    { "path": "tinkers_tools:item/tool/spear/large/head",        "stat_type": "tconstruct:head"    },
+    { "path": "tinkers_tools:item/tool/spear/large/head_broken", "stat_type": "tconstruct:head"    },
+    { "path": "tinkers_tools:item/tool/spear/large/grip",        "stat_type": "tconstruct:binding" },
+    { "path": "tinkers_tools:item/tool/spear/large/handle",      "stat_type": "tconstruct:handle"  },
 
     { "path": "tinkers_tools:item/tool/parts/slender_blade", "stat_type": "tconstruct:head" }
   ]

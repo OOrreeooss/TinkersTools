@@ -1,4 +1,5 @@
 {
   "replace": false,
-  "tconstruct:channeling": "tconstruct:normal"
+  "tconstruct:channeling": "tconstruct:normal",
+  "tconstruct:punch": "tconstruct:normal"
 }

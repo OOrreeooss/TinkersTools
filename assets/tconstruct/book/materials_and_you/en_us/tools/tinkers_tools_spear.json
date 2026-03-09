@@ -1,0 +1,12 @@
+{
+  "tool": "tinkers_tools:spear",
+  "text": [
+    { "text": "The Spear is a pretty long polearm weapon. It can poke foes from afar." }
+  ],
+  "properties": [
+    "Medium Damage",
+    "Medium Speed",
+    "Bonus damage while sprinting",
+    "Increased attack range"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/bow",
+  "textures": {
+    "limb_bottom": "tinkers_tools:item/tool/shortbow/limb_bottom",
+    "limb_top":    "tinkers_tools:item/tool/shortbow/limb_top",
+    "bowstring":   "tinkers_tools:item/tool/shortbow/bowstring_3"
+  },
+  "modifier_roots": [ "tinkers_tools:item/tool/shortbow/modifiers/" ],
+  "parts": [
+    { "name": "limb_bottom", "index": 0 },
+    { "name": "limb_top",    "index": 1 },
+    { "name": "bowstring",   "index": 2 }
+  ],
+  "ammo": {
+    "key": "tconstruct:drawback_ammo",
+    "flip": true,
+    "left": true,
+    "offset": [ -1, -2 ]
+  }
+}

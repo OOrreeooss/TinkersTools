@@ -16,8 +16,8 @@
       "tinkers_tools:item/tool/mace/modifiers/"
     ],
     "large": [
-      "tinkers_tools:item/tool/mace/modifiers/broken/",
-      "tinkers_tools:item/tool/mace/modifiers/"
+      "tinkers_tools:item/tool/mace/large/modifiers/broken/",
+      "tinkers_tools:item/tool/mace/large/modifiers/"
     ]
   },
   "large": true,

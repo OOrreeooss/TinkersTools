@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "tinkers_tools:hoe",
+    "tinkers_tools:shortbow",
     "tinkers_tools:shovel"
   ]
 }

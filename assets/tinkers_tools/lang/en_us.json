@@ -2,6 +2,8 @@
   "itemGroup.tinkers_tools.tools": "Tinkers' Tools",
   "itemGroup.tinkers_tools.tool_parts": "Tinkers' Tool Parts",
 
+  "_comment": "Tools",
+
   "item.tinkers_tools.dolabra": "Dolabra",
   "item.tinkers_tools.dolabra.description": "The Dolabra is a multipurpose wood and stone mining tool. It is effective on logs, rocks, and ores.",
 
@@ -17,26 +19,52 @@
   "item.tinkers_tools.paxel": "Paxel",
   "item.tinkers_tools.paxel.description": "The Paxel is a multipurpose mining tool. It is effective on logs, rocks, and dirt.",
 
+  "item.tinkers_tools.shortbow": "Shortbow",
+  "item.tinkers_tools.shortbow.description": "The Shortbow is a ranged weapon that fires arrows.",
+
   "item.tinkers_tools.shovel": "Shovel",
   "item.tinkers_tools.shovel.description": "The Shovel is the most basic of digging tools. It has plenty of knockback.",
 
+  "item.tinkers_tools.spear": "Spear",
+  "item.tinkers_tools.spear.description": "The Spear is a lengthy weapon used for attacking while further away.",
+
+  "_comment": "Patterns",
+
   "pattern.tinkers_tools.mace_head": "Mace Head",
+
   "pattern.tinkers_tools.slender_blade": "Shovel Blade",
+
   "pattern.tinkers_tools.slender_blade": "Slender Blade",
 
+  "_comment": "Tool Parts",
+
   "item.tinkers_tools.mace_head": "Mace Head",
+
   "item.tinkers_tools.shovel_blade": "Shovel Blade",
+
   "item.tinkers_tools.slender_blade": "Slender Blade",
 
+  "_comment": "Casts",
+
   "item.tinkers_tools.mace_head_gold_cast": "Mace Head Gold Cast",
-  "item.tinkers_tools.shovel_blade_gold_cast": "Shovel Blade Gold Cast",
-  "item.tinkers_tools.slender_blade_gold_cast": "Slender Blade Gold Cast",
-
   "item.tinkers_tools.mace_head_sand_cast": "Mace Head Sand Cast",
-  "item.tinkers_tools.shovel_blade_sand_cast": "Shovel Blade Sand Cast",
-  "item.tinkers_tools.slender_blade_sand_cast": "Slender Blade Sand Cast",
-
   "item.tinkers_tools.mace_head_red_sand_cast": "Mace Head Red Sand Cast",
+
+  "item.tinkers_tools.shovel_blade_gold_cast": "Shovel Blade Gold Cast",
+  "item.tinkers_tools.shovel_blade_sand_cast": "Shovel Blade Sand Cast",
   "item.tinkers_tools.shovel_blade_red_sand_cast": "Shovel Blade Red Sand Cast",
-  "item.tinkers_tools.slender_blade_red_sand_cast": "Slender Blade Red Sand Cast"
+
+  "item.tinkers_tools.slender_blade_gold_cast": "Slender Blade Gold Cast",
+  "item.tinkers_tools.slender_blade_sand_cast": "Slender Blade Sand Cast",
+  "item.tinkers_tools.slender_blade_red_sand_cast": "Slender Blade Red Sand Cast",
+
+  "_comment": "Modifiers",
+
+  "modifier.tinkers_tools.length": "Length",
+  "modifier.tinkers_tools.length.flavor": "Lengthy Handle",
+  "modifier.tinkers_tools.length.description": "Tool is very long, allowing far away foes to be attacked.",
+
+  "modifier.tinkers_tools.rush": "Rush",
+  "modifier.tinkers_tools.rush.flavor": "Stabby Stab Attack",
+  "modifier.tinkers_tools.rush.description": "Sprinting allows for more damage dealt to the opponent."
 }

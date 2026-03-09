@@ -1,0 +1,49 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/bow",
+  "textures": {
+    "limb_bottom": "tinkers_tools:item/tool/shortbow/limb_bottom",
+    "limb_top":    "tinkers_tools:item/tool/shortbow/limb_top",
+    "bowstring":   "tinkers_tools:item/tool/shortbow/bowstring"
+  },
+  "modifier_roots": [ "tinkers_tools:item/tool/shortbow/modifiers/" ],
+  "parts": [
+    { "name": "limb_bottom", "index": 0 },
+    { "name": "limb_top",    "index": 1 },
+    { "name": "bowstring",   "index": 2 }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.05 },
+      "model": "tinkers_tools:item/shortbow/pulling_1"
+    },
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.6 },
+      "model": "tinkers_tools:item/shortbow/pulling_2"
+    },
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 1.0 },
+      "model": "tinkers_tools:item/shortbow/pulling_3"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_tools:item/shortbow/blocking"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.05 },
+      "model": "tinkers_tools:item/shortbow/blocking_1"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.6 },
+      "model": "tinkers_tools:item/shortbow/blocking_2"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 1.0 },
+      "model": "tinkers_tools:item/shortbow/blocking_3"
+    },
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_tools:item/shortbow/broken"
+    }
+  ]
+}

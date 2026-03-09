@@ -2,7 +2,7 @@
   "loader": "tconstruct:tool",
   "parent": "forge:item/default-tool",
   "textures": {
-    "head":    "tinkers_tools:item/tool/dolabra/head_broken",
+    "axe":    "tinkers_tools:item/tool/dolabra/axe_broken",
     "pick":    "tinkers_tools:item/tool/dolabra/pick_broken",
     "handle":  "tconstruct:item/tool/pickaxe/handle"
   },
@@ -12,7 +12,7 @@
   ],
   "parts": [
     { "name": "handle",  "index": 1 },
-    { "name": "head",    "index": 0 },
+    { "name": "axe",    "index": 0 },
     { "name": "pick",    "index": 2 }
   ]
 }
