@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/OOrreeooss/TinkersTools/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_tools"
-    version="1.2.0"
+    version="1.2.2"
     displayName="Tinkers' Tools"
     authors="OOrreeooss"
     description='''A thingpack for Tinkers' Construct that adds many new tools.'''

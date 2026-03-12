@@ -66,5 +66,6 @@
 
   "modifier.tinkers_tools.rush": "Rush",
   "modifier.tinkers_tools.rush.flavor": "Stabby Stab Attack",
-  "modifier.tinkers_tools.rush.description": "Sprinting allows for more damage dealt to the opponent."
+  "modifier.tinkers_tools.rush.description": "Sprinting allows for more damage dealt to the opponent.",
+  "modifier.tinkers_tools.rush.attack_damage": "Sprint Damage"
 }
