@@ -1,10 +1,7 @@
 {
   "parent": "forge:item/default",
   "loader": "tconstruct:material",
-  "offset": [
-    -3,
-    2
-  ],
+  "offset": [ -3, 2 ],
   "textures": {
     "texture": "tinkers_tools:item/tool/shovel/head"
   }

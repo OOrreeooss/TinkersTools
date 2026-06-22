@@ -1,0 +1,40 @@
+{
+  "translation_key": "item.tinkers_tools.pike",
+  "icon": {
+    "item": "tinkers_tools:pike",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": ["tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra", "tconstruct:ui_render#large", "tconstruct:ui_render#extra_large"]
+    }
+  },
+  "sortIndex": 3,
+  "input_slots": [
+    {
+      "icon": "tinkers_tools:slender_blade",
+      "translation_key": "item.tinkers_tools.slender_blade",
+      "x": 45,
+      "y": 26,
+      "filter": {
+        "item": "tinkers_tools:slender_blade"
+      }
+    },
+    {
+      "icon": "tconstruct:tool_handle",
+      "translation_key": "item.tconstruct.tool_handle",
+      "x": 7,
+      "y": 62,
+      "filter": {
+        "item": "tconstruct:tool_handle"
+      }
+    },
+    {
+      "icon": "tconstruct:tough_binding",
+      "translation_key": "item.tconstruct.tough_binding",
+      "x": 25,
+      "y": 46,
+      "filter": {
+        "item": "tconstruct:tough_binding"
+      }
+    }
+  ]
+}

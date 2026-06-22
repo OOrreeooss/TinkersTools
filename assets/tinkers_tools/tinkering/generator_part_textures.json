@@ -25,6 +25,15 @@
     { "path": "tinkers_tools:item/tool/paxel/pick",        "stat_type": "tconstruct:head" },
     { "path": "tinkers_tools:item/tool/paxel/pick_broken", "stat_type": "tconstruct:head" },
 
+    { "path": "tinkers_tools:item/tool/pike/head",        "stat_type": "tconstruct:head"    },
+    { "path": "tinkers_tools:item/tool/pike/head_broken", "stat_type": "tconstruct:head"    },
+    { "path": "tinkers_tools:item/tool/pike/grip",        "stat_type": "tconstruct:binding" },
+
+    { "path": "tinkers_tools:item/tool/pike/large/head",        "stat_type": "tconstruct:head"    },
+    { "path": "tinkers_tools:item/tool/pike/large/head_broken", "stat_type": "tconstruct:head"    },
+    { "path": "tinkers_tools:item/tool/pike/large/grip",        "stat_type": "tconstruct:binding" },
+    { "path": "tinkers_tools:item/tool/pike/large/handle",      "stat_type": "tconstruct:handle"  },
+
     { "path": "tinkers_tools:item/tool/shortbow/bowstring",        "stat_type": "tconstruct:bowstring" },
     { "path": "tinkers_tools:item/tool/shortbow/bowstring_1",      "stat_type": "tconstruct:bowstring" },
     { "path": "tinkers_tools:item/tool/shortbow/bowstring_2",      "stat_type": "tconstruct:bowstring" },

@@ -1,0 +1,29 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tinkers_tools:item/base/pike",
+  "textures": {
+    "head":   "tinkers_tools:item/tool/pike/head",
+    "grip":   "tinkers_tools:item/tool/pike/grip",
+    "handle": "tinkers_tools:item/tool/spear/handle",
+
+    "large_head":   "tinkers_tools:item/tool/pike/large/head",
+    "large_grip":   "tinkers_tools:item/tool/pike/large/grip",
+    "large_handle": "tinkers_tools:item/tool/pike/large/handle"
+  },
+  "modifier_roots": {
+	  "small": [ "tinkers_tools:item/tool/pike/modifiers/" ],
+	  "large": [ "tinkers_tools:item/tool/pike/large/modifiers/" ]
+  },
+  "large": true,
+  "parts": [
+    { "name": "handle", "index": 1 },
+    { "name": "head",   "index": 0 },
+    { "name": "grip",   "index": 2 }
+  ],
+  "overrides": [
+    { "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_tools:item/pike/blocking" },
+    { "predicate": { "tconstruct:broken": 1  },
+      "model": "tinkers_tools:item/pike/broken" }
+  ]
+}

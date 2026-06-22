@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_tools:pike",
+  "text": [
+    { "text": "The Pike is a extremely long weapon used to poke enemies from a distance." }
+  ],
+  "properties": [
+    "+1.25 Attack Damage",
+    "0.75 Attack Speed",
+    "15% Mining Multiplier",
+    "80% Durability Multiplier",
+    "+4 Sprint Damage",
+    "Lengthy III",
+    "-1 Upgrade Slot"
+  ]
+}

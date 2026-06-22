@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "forge:item/default-tool",
+  "parent": "tinkers_tools:item/base/spear",
   "textures": {
     "head":   "tinkers_tools:item/tool/spear/head_broken",
     "grip":   "tinkers_tools:item/tool/spear/grip",

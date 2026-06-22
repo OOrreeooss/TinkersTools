@@ -19,6 +19,9 @@
   "item.tinkers_tools.paxel": "Paxel",
   "item.tinkers_tools.paxel.description": "The Paxel is a multipurpose mining tool. It is effective on logs, rocks, and dirt.",
 
+  "item.tinkers_tools.pike": "Pike",
+  "item.tinkers_tools.pike.description": "The Pike is a extremely long weapon used to poke enemies from a distance.",
+
   "item.tinkers_tools.shortbow": "Shortbow",
   "item.tinkers_tools.shortbow.description": "The Shortbow is a ranged weapon that fires arrows.",
 

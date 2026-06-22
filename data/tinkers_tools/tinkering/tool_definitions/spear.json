@@ -27,7 +27,7 @@
     {
       "type": "tconstruct:multiply_stats",
       "multipliers": {
-        "tconstruct:durability": 1.3,
+        "tconstruct:durability": 1.1,
         "tconstruct:mining_speed": 0.35
       }
     },
@@ -41,7 +41,7 @@
     {
       "type": "tconstruct:traits",
       "traits": [
-        { "name": "tinkers_tools:rush", "level": 1 },
+        { "name": "tinkers_tools:rush", "level": 2 },
         { "name": "tinkers_tools:length", "level": 1 }
       ]
     }

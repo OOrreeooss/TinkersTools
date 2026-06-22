@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "forge:item/default-tool",
+  "parent": "tconstruct:item/base/axe",
   "textures": {
     "axe":    "tinkers_tools:item/tool/dolabra/axe_broken",
     "pick":    "tinkers_tools:item/tool/dolabra/pick_broken",

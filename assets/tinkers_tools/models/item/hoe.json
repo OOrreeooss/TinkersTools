@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "forge:item/default-tool",
+  "parent": "tconstruct:item/base/axe",
   "textures": {
     "head":   "tinkers_tools:item/tool/hoe/head",
     "handle": "tinkers_tools:item/tool/hoe/handle"
